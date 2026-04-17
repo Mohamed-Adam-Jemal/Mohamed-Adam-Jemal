@@ -1,11 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Mohamed%20Adam%20Jemal&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Aspiring%20DevSecOps%20Engineer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Mohamed-Adam-Jemal">
-    <img src="https://komarev.com/ghpvc/?username=Mohamed-Adam-Jemal&label=Profile%20views&color=00FFFF&style=flat-square" alt="Mohamed-Adam-Jemal's profile views" />
-  </a>
-</p>
-
 ## 📌 About Me
 - I'm an aspiring DevSecOps engineer passionate about building secure, resilient systems at the intersection of development, security, and operations. With a strong background in full-stack development and hands-on experience working with IoT systems and cloud infrastructure, I understand the critical importance of security across the entire technology stack.
 - I hold certifications in front-end and back-end development from Meta and have worked on real-world projects that span software applications, connected devices, and cloud environments. My goal is to leverage this diverse technical foundation to implement security-driven practices that protect modern systems from development through deployment and beyond.
